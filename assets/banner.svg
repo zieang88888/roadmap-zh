@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="55%" stop-color="#155e75"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <linearGradient id="star" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde68a"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <g stroke="#ffffff" stroke-opacity="0.15" stroke-width="1.5" fill="none">
+    <path d="M80 260 L220 200 L360 240 L500 160 L640 200"/>
+    <path d="M500 160 L720 120 L900 160 L1080 100"/>
+    <path d="M220 200 L280 100 L500 160"/>
+    <circle cx="80" cy="260" r="6" fill="#ffffff" fill-opacity="0.4"/>
+    <circle cx="220" cy="200" r="6" fill="#ffffff" fill-opacity="0.4"/>
+    <circle cx="360" cy="240" r="6" fill="#ffffff" fill-opacity="0.4"/>
+    <circle cx="500" cy="160" r="8" fill="#fbbf24" fill-opacity="0.9"/>
+    <circle cx="720" cy="120" r="6" fill="#ffffff" fill-opacity="0.4"/>
+    <circle cx="900" cy="160" r="6" fill="#ffffff" fill-opacity="0.4"/>
+    <circle cx="1080" cy="100" r="6" fill="#ffffff" fill-opacity="0.4"/>
+  </g>
+
+  <text x="600" y="140" text-anchor="middle"
+        font-family="Microsoft YaHei, PingFang SC, sans-serif"
+        font-size="56" font-weight="700" fill="#ffffff">
+    中文程序员学习路线图
+  </text>
+
+  <text x="600" y="195" text-anchor="middle"
+        font-family="Microsoft YaHei, PingFang SC, sans-serif"
+        font-size="24" fill="#e0f2f1">
+    前端 · 后端 · 全栈 · DevOps · AI/LLM · 计算机基础 —— 分阶段、有坑、有资源
+  </text>
+
+  <text x="600" y="245" text-anchor="middle"
+        font-family="Microsoft YaHei, PingFang SC, sans-serif"
+        font-size="18" fill="#a7f3d0">
+    461 个学习节点 · 每条都写清楚学什么、学到什么程度、常见坑
+  </text>
+
+  <g transform="translate(1080,60)">
+    <path d="M0,-30 L8,-10 L30,-8 L13,6 L18,28 L0,16 L-18,28 L-13,6 L-30,-8 L-8,-10 Z"
+          fill="url(#star)"/>
+  </g>
+</svg>
