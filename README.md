@@ -6,6 +6,8 @@
 
 `roadmap-zh` 是一份**纯 Markdown 的中文程序员学习路线图合集**：参考国际上最受欢迎的开发者路线图的分阶段思路，**所有节点内容为原创中文撰写**，不翻译、不搬运。打开即用、可搜索、可打印。
 
+⭐ 如果对你有帮助，点个 Star 支持中文开源
+
 ## 为什么需要这份路线图
 
 - 🧭 **不再「不知道下一步学什么」**：每个阶段都有过线标准，不是收藏一堆链接就完事。
@@ -93,3 +95,16 @@ roadmap-zh/
 ---
 
 *愿每个想入行的人，都不再走弯路。*
+
+## 姊妹项目
+
+中文开源矩阵，一网打尽开发者的知识库：
+
+- [zhskills · 中文技能库](https://github.com/zieang88888/zhskills)
+- [awesome-ai-tools-zh · AI 工具导航](https://github.com/zieang88888/awesome-ai-tools-zh)
+- [free-programming-books-zh · 编程书籍大全](https://github.com/zieang88888/free-programming-books-zh)
+- [system-design-zh · 系统设计面试](https://github.com/zieang88888/system-design-zh)
+- [awesome-python-zh · Python 生态导航](https://github.com/zieang88888/awesome-python-zh)
+- [ohmyzsh-zh · 终端效率神器](https://github.com/zieang88888/ohmyzsh-zh)
+- [llm-course-zh · LLM 课程导航](https://github.com/zieang88888/llm-course-zh)
+- [design-resources-for-developers-zh · 设计资源大全](https://github.com/zieang88888/design-resources-for-developers-zh)
